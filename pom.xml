@@ -1,0 +1,10 @@
+<dependencies>
+    <!-- JFreeChart Dependency -->
+    <dependency>
+        <groupId>org.jfree</groupId>
+        <artifactId>jfreechart</artifactId>
+        <version>1.5.3</version>  <!-- Or the latest version -->
+    </dependency>
+
+    <!-- Other dependencies (if any) -->
+</dependencies>
